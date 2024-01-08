@@ -1,0 +1,3 @@
+C:/Users/matus/CLionProjects/sem_Ants_client/cmake-build-debug-visual-studio/CMakeFiles/sem_Ants_client.dir
+C:/Users/matus/CLionProjects/sem_Ants_client/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir
+C:/Users/matus/CLionProjects/sem_Ants_client/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir
